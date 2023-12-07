@@ -1,5 +1,8 @@
 # StudyBuddy_GPT
 
+A GPT chatbot to help you study and create flashcards. The program is still under development
+but if you have any suggestions don't hesitate to let me know.
+
 - batch_size: This parameter determines the number of independent sequences that will be processed in parallel during training. 
 A larger batch size can speed up training, but it requires more memory.
 
