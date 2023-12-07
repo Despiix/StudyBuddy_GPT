@@ -26,3 +26,5 @@ The GPT model generates predictions based on the context it receives as input, a
 
 - dropout: This parameter sets the dropout probability for the GPT model. 
   Dropout is a regularization technique that randomly drops out some of the neural network’s nodes during training to prevent overfitting.
+
+Read dataset link: https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
